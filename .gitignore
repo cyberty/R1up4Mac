@@ -1,0 +1,21 @@
+.project
+.settings/*
+.buildpath
+.settings
+.metadata/
+logs/
+log/
+*.log
+*.apk
+*.swp
+*.swo
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
+__Tag_List__
+\[Buf\ List\]
+.idea
+.htaccess
+image/cache/
+.php_cs.cache
