@@ -34,8 +34,7 @@ brew cask install android-platform-tools
 在上一步的终端窗口中输入:<br/>
 
 ```shell
-cd /tmp/R1up4Mac
-./httpserver.sh
+cd /tmp/R1up4Mac && ./httpserver.sh
 ```
 
 升级结束前不要关闭本窗口.<br/>
@@ -43,8 +42,7 @@ cd /tmp/R1up4Mac
 输入:<br/>
 
 ```shell
-cd /tmp/R1up4Mac
-./run.sh
+cd /tmp/R1up4Mac && ./run.sh
 ```
 
 根据上面步骤2 获取到的版本号进行选择<br/>
