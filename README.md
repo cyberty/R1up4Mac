@@ -8,7 +8,7 @@
 ~~* "斐讯AI"APP => 我 => 斐讯AI音箱R1 => 右上"+"<br/>~~
 ~~然后按照app提示, 输入WiFi网络名称和密码(支持2.4G和5G Wifi). 然后等到底部氛围灯熄灭, WiFi就设置好了.<br/>~~
 ~~APP上依然会提示网络连接异常, 忽略即可.~~
-"斐讯AI"APP已经完全不可用, 请访问wifi.ip3x.com, 根据网页提示配置WiFi网络.
+<br/>"斐讯AI"APP已经完全不可用, 请访问wifi.ip3x.com, 根据网页提示配置WiFi网络.
 
 ## 升级固件版本<br/>
 升级固件内容copy至["神来支笔"文章][2] https://weibo.com/ttarticle/p/show?id=2309404344035509678645, 并移植到macOS.
