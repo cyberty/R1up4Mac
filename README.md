@@ -39,6 +39,7 @@ cd /tmp/R1up4Mac && ./httpserver.sh
 ```
 
 升级结束前不要关闭本窗口.<br/>
+
 7. 在上一步终端窗口中,组合键Command + t . 终端窗口新开tab<br/>
 输入:<br/>
 
